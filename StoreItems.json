@@ -49,36 +49,6 @@
 		"defname": "ForsakenShotGun"
 	},
 	{
-		"abr": "basicvibrocell",
-		"price": -10,
-		"category": "Vibroblade motors",
-		"defname": "PJ_VibroMotorNorm"
-	},
-	{
-		"abr": "cryovibrocell",
-		"price": -10,
-		"category": "Vibroblade motors",
-		"defname": "PJ_CryoCell"
-	},
-	{
-		"abr": "hypersonicvibrocell",
-		"price": -10,
-		"category": "Vibroblade motors",
-		"defname": "PJ_SonicCell"
-	},
-	{
-		"abr": "experimentalvibrocell",
-		"price": -10,
-		"category": "Vibroblade motors",
-		"defname": "PJ_XXCell"
-	},
-	{
-		"abr": "specopsvibrocell",
-		"price": -10,
-		"category": "Vibroblade motors",
-		"defname": "PJ_SpecOpsCell"
-	},
-	{
 		"abr": "agavefruit",
 		"price": 2,
 		"category": "Raw vegetarian",
@@ -211,12 +181,6 @@
 		"defname": "WoolAlpaca"
 	},
 	{
-		"abr": "banthawool",
-		"price": -10,
-		"category": "Textiles",
-		"defname": "WoolBantha"
-	},
-	{
 		"abr": "camelhair",
 		"price": -10,
 		"category": "Textiles",
@@ -233,12 +197,6 @@
 		"price": -10,
 		"category": "Textiles",
 		"defname": "WoolMuffalo"
-	},
-	{
-		"abr": "nerfwool",
-		"price": -10,
-		"category": "Textiles",
-		"defname": "WoolNerf"
 	},
 	{
 		"abr": "synthread",
@@ -493,18 +451,6 @@
 		"defname": "BlocksSlate"
 	},
 	{
-		"abr": "wookiebandolier",
-		"price": -10,
-		"category": "Star Wars Races - Wookie",
-		"defname": "StarWarsRaces_Wookie_Bandolier"
-	},
-	{
-		"abr": "ewoktabard",
-		"price": -10,
-		"category": "Star Wars Races - Ewok",
-		"defname": "StarWarsRaces_Ewok_Parka"
-	},
-	{
 		"abr": "glowpod",
 		"price": -10,
 		"category": "Special",
@@ -745,126 +691,6 @@
 		"defname": "TrapIED_AntigrainWarhead"
 	},
 	{
-		"abr": "colorcrystal(azure)",
-		"price": -10,
-		"category": "Saber crystals",
-		"defname": "PJ_KyberCrystalAzure"
-	},
-	{
-		"abr": "colorcrystal(blue)",
-		"price": -10,
-		"category": "Saber crystals",
-		"defname": "PJ_KyberCrystalBlue"
-	},
-	{
-		"abr": "colorcrystal(cyan)",
-		"price": -10,
-		"category": "Saber crystals",
-		"defname": "PJ_KyberCrystalCyan"
-	},
-	{
-		"abr": "colorcrystal(green)",
-		"price": -10,
-		"category": "Saber crystals",
-		"defname": "PJ_KyberCrystal"
-	},
-	{
-		"abr": "colorcrystal(purple)",
-		"price": -10,
-		"category": "Saber crystals",
-		"defname": "PJ_KyberCrystalPurple"
-	},
-	{
-		"abr": "colorcrystal(yellow)",
-		"price": -10,
-		"category": "Saber crystals",
-		"defname": "PJ_KyberCrystalYellow"
-	},
-	{
-		"abr": "syntheticcrystal(red)",
-		"price": -10,
-		"category": "Saber crystals",
-		"defname": "PJ_KyberCrystalRed"
-	},
-	{
-		"abr": "adegancrystal(green)",
-		"price": -10,
-		"category": "Saber crystals",
-		"defname": "PJ_AdeganCrystal"
-	},
-	{
-		"abr": "baraboreingot(orange)",
-		"price": -10,
-		"category": "Saber crystals",
-		"defname": "PJ_BarabIngot"
-	},
-	{
-		"abr": "damindcrystal(ltazure)",
-		"price": -10,
-		"category": "Saber crystals",
-		"defname": "PJ_DamindCrystal"
-	},
-	{
-		"abr": "dragitecrystal(ltpurple)",
-		"price": -10,
-		"category": "Saber crystals",
-		"defname": "PJ_DragiteCrystal"
-	},
-	{
-		"abr": "eralamcrystal(silver)",
-		"price": -10,
-		"category": "Saber crystals",
-		"defname": "PJ_EralamCrystal"
-	},
-	{
-		"abr": "firkranncrystal(silver)",
-		"price": -10,
-		"category": "Saber crystals",
-		"defname": "PJ_FirkrannCrystal"
-	},
-	{
-		"abr": "hurrikainecrystal(indigopurple)",
-		"price": -10,
-		"category": "Saber crystals",
-		"defname": "PJ_HurCrystal"
-	},
-	{
-		"abr": "pontitecrystal(iceblue)",
-		"price": -10,
-		"category": "Saber crystals",
-		"defname": "PJ_PontiteCrystal"
-	},
-	{
-		"abr": "rubatcrystal(bronze)",
-		"price": -10,
-		"category": "Saber crystals",
-		"defname": "PJ_RubatCrystal"
-	},
-	{
-		"abr": "ankarressapphire(dkblue)",
-		"price": -10,
-		"category": "Saber crystals",
-		"defname": "PJ_AnkSapphire"
-	},
-	{
-		"abr": "kaiburrcrystal(red-orange)",
-		"price": -10,
-		"category": "Saber crystals",
-		"defname": "PJ_KaiburrCrystal"
-	},
-	{
-		"abr": "kraytdragonpearl(black)",
-		"price": -10,
-		"category": "Saber crystals",
-		"defname": "PJ_BlackPearl"
-	},
-	{
-		"abr": "ultimapearl(pale)",
-		"price": -10,
-		"category": "Saber crystals",
-		"defname": "PJ_UltimaPearl"
-	},
-	{
 		"abr": "horseshoespin",
 		"price": -10,
 		"category": "Recreation",
@@ -931,12 +757,6 @@
 		"defname": "MegascreenTelevision"
 	},
 	{
-		"abr": "imperialcredit",
-		"price": 0,
-		"category": "Raw resources",
-		"defname": "PJ_ImperialCredit"
-	},
-	{
 		"abr": "silver",
 		"price": 2,
 		"category": "Raw resources",
@@ -961,46 +781,10 @@
 		"defname": "MedTimes_Resource_Coal"
 	},
 	{
-		"abr": "darkironore",
-		"price": 3,
-		"category": "Raw resources",
-		"defname": "WoW_darkiron_ore"
-	},
-	{
-		"abr": "mithrilore",
-		"price": 3,
-		"category": "Raw resources",
-		"defname": "WoW_mithril_ore"
-	},
-	{
-		"abr": "truesilverore",
-		"price": 5,
-		"category": "Raw resources",
-		"defname": "WoW_truesilver_ore"
-	},
-	{
 		"abr": "iceblocks",
 		"price": 6,
 		"category": "Raw resources",
 		"defname": "MedTimes_Resource_IceBlocks"
-	},
-	{
-		"abr": "thoriumore",
-		"price": 7,
-		"category": "Raw resources",
-		"defname": "WoW_thorium_ore"
-	},
-	{
-		"abr": "adamantiteore",
-		"price": 8,
-		"category": "Raw resources",
-		"defname": "WoW_adamantite_ore"
-	},
-	{
-		"abr": "mithril",
-		"price": 8,
-		"category": "Raw resources",
-		"defname": "WoW_mithril"
 	},
 	{
 		"abr": "jade",
@@ -1015,24 +799,6 @@
 		"defname": "Uranium"
 	},
 	{
-		"abr": "truesilver",
-		"price": 11,
-		"category": "Raw resources",
-		"defname": "WoW_truesilver"
-	},
-	{
-		"abr": "thorium",
-		"price": 14,
-		"category": "Raw resources",
-		"defname": "WoW_thorium"
-	},
-	{
-		"abr": "adamantite",
-		"price": 15,
-		"category": "Raw resources",
-		"defname": "WoW_adamantite"
-	},
-	{
 		"abr": "plasteel",
 		"price": 15,
 		"category": "Raw resources",
@@ -1043,18 +809,6 @@
 		"price": 17,
 		"category": "Raw resources",
 		"defname": "Gold"
-	},
-	{
-		"abr": "darkiron",
-		"price": 22,
-		"category": "Raw resources",
-		"defname": "WoW_darkiron"
-	},
-	{
-		"abr": "hardenedadamantite",
-		"price": 150,
-		"category": "Raw resources",
-		"defname": "WoW_hardened_adamantite"
 	},
 	{
 		"abr": "sling",
@@ -1327,72 +1081,6 @@
 		"defname": "Goblin_LaserRifle"
 	},
 	{
-		"abr": "dc-15blasterrifle",
-		"price": -10,
-		"category": "Ranged weapons",
-		"defname": "PJ_DC15Rifle"
-	},
-	{
-		"abr": "dl-44blaster",
-		"price": -10,
-		"category": "Ranged weapons",
-		"defname": "PJ_DL44blaster"
-	},
-	{
-		"abr": "dlt-19heavyblasterrifle",
-		"price": -10,
-		"category": "Ranged weapons",
-		"defname": "PJ_DLT19Rifle"
-	},
-	{
-		"abr": "dxr-6blastercarbine",
-		"price": -10,
-		"category": "Ranged weapons",
-		"defname": "PJ_DXR6Carb"
-	},
-	{
-		"abr": "ee-3blastercarbine",
-		"price": -10,
-		"category": "Ranged weapons",
-		"defname": "PJ_EE3Carbine"
-	},
-	{
-		"abr": "jawaionrifle",
-		"price": -10,
-		"category": "Ranged weapons",
-		"defname": "PJ_JawaIon"
-	},
-	{
-		"abr": "launcherpistol",
-		"price": -10,
-		"category": "Ranged weapons",
-		"defname": "PJ_LauncherP"
-	},
-	{
-		"abr": "nym'sslugthrower",
-		"price": -10,
-		"category": "Ranged weapons",
-		"defname": "PJ_NymSlug"
-	},
-	{
-		"abr": "scoutblaster",
-		"price": -10,
-		"category": "Ranged weapons",
-		"defname": "PJ_Scoutblaster"
-	},
-	{
-		"abr": "se14blaster",
-		"price": -10,
-		"category": "Ranged weapons",
-		"defname": "PJ_SE14blaster"
-	},
-	{
-		"abr": "t-21blasterrifle",
-		"price": -10,
-		"category": "Ranged weapons",
-		"defname": "PJ_T21Rifle"
-	},
-	{
 		"abr": "minigun",
 		"price": -10,
 		"category": "Ranged weapons",
@@ -1417,46 +1105,16 @@
 		"defname": "Gun_ChargeLance"
 	},
 	{
-		"abr": "dh-17blasterpistol",
-		"price": -10,
-		"category": "Ranged weapons",
-		"defname": "PJ_DH17Blaster"
-	},
-	{
-		"abr": "e-11blasterrifle",
-		"price": -10,
-		"category": "Ranged weapons",
-		"defname": "PJ_E11Blaster"
-	},
-	{
 		"abr": "orbitalmech-falltargeter",
 		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "OrbitalTargeterMechFall"
 	},
 	{
-		"abr": "atatmainblastercannon",
-		"price": -10,
-		"category": "Ranged weapons",
-		"defname": "PJ_ATAT_Blaster"
-	},
-	{
-		"abr": "atstmainblastercannon",
-		"price": -10,
-		"category": "Ranged weapons",
-		"defname": "PJ_ATST_Blaster"
-	},
-	{
 		"abr": "railgun",
 		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_RailgunMKI"
-	},
-	{
-		"abr": "speedermainblastercannon",
-		"price": -10,
-		"category": "Ranged weapons",
-		"defname": "PJ_Spd_Blaster"
 	},
 	{
 		"abr": "firepit",
@@ -1645,12 +1303,6 @@
 		"defname": "AndroidPartsTable"
 	},
 	{
-		"abr": "forge",
-		"price": -10,
-		"category": "Production",
-		"defname": "WoW_Forge"
-	},
-	{
 		"abr": "sculptor'stable",
 		"price": -10,
 		"category": "Production",
@@ -1709,12 +1361,6 @@
 		"price": -10,
 		"category": "Production",
 		"defname": "DrugLab"
-	},
-	{
-		"abr": "advancedfabricationbench",
-		"price": -10,
-		"category": "Production",
-		"defname": "Table_PJ_Bench"
 	},
 	{
 		"abr": "machiningtable",
@@ -2749,132 +2395,6 @@
 		"defname": "MedTimes_Melee_WarHammer"
 	},
 	{
-		"abr": "doublelightsaber(inquisitor)",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "SWSaber_Inquis"
-	},
-	{
-		"abr": "echanivibrosword",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "PJ_Vibrosword"
-	},
-	{
-		"abr": "honorguardsaberstaff",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "SWSaber_JGuard"
-	},
-	{
-		"abr": "lightsaber(ahsokatano)",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "SWSaber_Ahsokasaber"
-	},
-	{
-		"abr": "lightsaber(crosshilt)",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "SWSaber_KyloSaber"
-	},
-	{
-		"abr": "lightsaber(curvedhilt)",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "SWSaber_DookuSaber"
-	},
-	{
-		"abr": "lightsaber(darksaber)",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "SWSaber_Darksaber"
-	},
-	{
-		"abr": "lightsaber(double)",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "SWSaber_Doublesaber"
-	},
-	{
-		"abr": "lightsaber(electrumhilt)",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "SWSaber_ElectrumSaber"
-	},
-	{
-		"abr": "lightsaber(macewindu)",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "SWSaber_MaceSaber"
-	},
-	{
-		"abr": "lightsaber(oldstylehilt)",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "SWSaber_ObiSaber"
-	},
-	{
-		"abr": "lightsaber(prototype)",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "SWSaber_Lightsaber"
-	},
-	{
-		"abr": "lightsaber(qui-gonjinn)",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "SWSaber_Quigon"
-	},
-	{
-		"abr": "lightsaber(yoda)",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "SWSaber_Yodasaber"
-	},
-	{
-		"abr": "lightsaberpike",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "SWSaber_SaberPike"
-	},
-	{
-		"abr": "mandovibrocleaver",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "PJ_Vibrocleaver"
-	},
-	{
-		"abr": "vibrodouble-blade",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "PJ_Vibrodouble"
-	},
-	{
-		"abr": "vibroscythe",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "PJ_VScythe"
-	},
-	{
-		"abr": "vibroaxe",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "PJ_Vibroaxe"
-	},
-	{
-		"abr": "tuskenvibrostaff",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "PJ_TStaff"
-	},
-	{
-		"abr": "vibrostaff",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "PJ_StaffX"
-	},
-	{
 		"abr": "quicklimepitch",
 		"price": -10,
 		"category": "Medieval Artillary",
@@ -2911,12 +2431,6 @@
 		"defname": "Meat_Megaspider"
 	},
 	{
-		"abr": "ewokmeat",
-		"price": 1,
-		"category": "Raw meat",
-		"defname": "Meat_StarWarsRaces_Ewok"
-	},
-	{
 		"abr": "goblinmeat",
 		"price": 1,
 		"category": "Raw meat",
@@ -2929,36 +2443,6 @@
 		"defname": "Meat_Human"
 	},
 	{
-		"abr": "rodianmeat",
-		"price": 1,
-		"category": "Raw meat",
-		"defname": "Meat_StarWarsRaces_Rodian"
-	},
-	{
-		"abr": "togrutameat",
-		"price": 1,
-		"category": "Raw meat",
-		"defname": "Meat_StarWarsRaces_Togruta"
-	},
-	{
-		"abr": "twi'lekmeat",
-		"price": 1,
-		"category": "Raw meat",
-		"defname": "Meat_StarWarsRaces_Twilek"
-	},
-	{
-		"abr": "wookiemeat",
-		"price": 1,
-		"category": "Raw meat",
-		"defname": "Meat_StarWarsRaces_Wookie"
-	},
-	{
-		"abr": "acklaymeat",
-		"price": 3,
-		"category": "Raw meat",
-		"defname": "Meat_Acklay"
-	},
-	{
 		"abr": "alpacameat",
 		"price": 3,
 		"category": "Raw meat",
@@ -2969,12 +2453,6 @@
 		"price": 3,
 		"category": "Raw meat",
 		"defname": "Meat_Alphabeaver"
-	},
-	{
-		"abr": "banthameat",
-		"price": 3,
-		"category": "Raw meat",
-		"defname": "Meat_Bantha"
 	},
 	{
 		"abr": "bearmeat",
@@ -3067,30 +2545,6 @@
 		"defname": "Meat_Cougar"
 	},
 	{
-		"abr": "dewbackmeat",
-		"price": 3,
-		"category": "Raw meat",
-		"defname": "Meat_Dewback"
-	},
-	{
-		"abr": "direwolfmeat",
-		"price": 3,
-		"category": "Raw meat",
-		"defname": "Meat_WoWDirewolf"
-	},
-	{
-		"abr": "direwolfmeat",
-		"price": 3,
-		"category": "Raw meat",
-		"defname": "Meat_WoWFrostwolf"
-	},
-	{
-		"abr": "dragonhawkmeat",
-		"price": 3,
-		"category": "Raw meat",
-		"defname": "Meat_WoWDragonhawk"
-	},
-	{
 		"abr": "dromedarymeat",
 		"price": 3,
 		"category": "Raw meat",
@@ -3101,18 +2555,6 @@
 		"price": 3,
 		"category": "Raw meat",
 		"defname": "Meat_AEXP_Duck"
-	},
-	{
-		"abr": "ectoplasm",
-		"price": 3,
-		"category": "Raw meat",
-		"defname": "Meat_PJ_ForceGhostR"
-	},
-	{
-		"abr": "elekkmeat",
-		"price": 3,
-		"category": "Raw meat",
-		"defname": "Meat_WoWElekk"
 	},
 	{
 		"abr": "elephantmeat",
@@ -3139,22 +2581,10 @@
 		"defname": "Meat_Fox_Fennec"
 	},
 	{
-		"abr": "frog-dogmeat",
-		"price": 3,
-		"category": "Raw meat",
-		"defname": "Meat_Frog-dog"
-	},
-	{
 		"abr": "gazellemeat",
 		"price": 3,
 		"category": "Raw meat",
 		"defname": "Meat_Gazelle"
-	},
-	{
-		"abr": "gizkameat",
-		"price": 3,
-		"category": "Raw meat",
-		"defname": "Meat_Gizka"
 	},
 	{
 		"abr": "goatmeat",
@@ -3173,18 +2603,6 @@
 		"price": 3,
 		"category": "Raw meat",
 		"defname": "Meat_Hare"
-	},
-	{
-		"abr": "hawkstridermeat",
-		"price": 3,
-		"category": "Raw meat",
-		"defname": "Meat_WoWHawkstrider"
-	},
-	{
-		"abr": "hawkstridermeat",
-		"price": 3,
-		"category": "Raw meat",
-		"defname": "Meat_WoWVoidstrider"
 	},
 	{
 		"abr": "horsemeat",
@@ -3209,30 +2627,6 @@
 		"price": 3,
 		"category": "Raw meat",
 		"defname": "Meat_Palomino"
-	},
-	{
-		"abr": "horsemeat",
-		"price": 3,
-		"category": "Raw meat",
-		"defname": "Meat_WoWForsakenhorse"
-	},
-	{
-		"abr": "horsemeat",
-		"price": 3,
-		"category": "Raw meat",
-		"defname": "Meat_WoWEpicForsakenhorse"
-	},
-	{
-		"abr": "horsemeat",
-		"price": 3,
-		"category": "Raw meat",
-		"defname": "Meat_WoWHorse"
-	},
-	{
-		"abr": "horsemeat",
-		"price": 3,
-		"category": "Raw meat",
-		"defname": "Meat_WoWKodo"
 	},
 	{
 		"abr": "horsemeat",
@@ -3265,12 +2659,6 @@
 		"defname": "Meat_Iguana"
 	},
 	{
-		"abr": "kraytdragonmeat",
-		"price": 3,
-		"category": "Raw meat",
-		"defname": "Meat_KraytDragon"
-	},
-	{
 		"abr": "labradorretrievermeat",
 		"price": 3,
 		"category": "Raw meat",
@@ -3301,28 +2689,10 @@
 		"defname": "Meat_Muffalo"
 	},
 	{
-		"abr": "murlocmeat",
-		"price": 3,
-		"category": "Raw meat",
-		"defname": "Meat_WoWMurloc"
-	},
-	{
 		"abr": "n.solutionunitmeat",
 		"price": 3,
 		"category": "Raw meat",
 		"defname": "Meat_RoboticCow"
-	},
-	{
-		"abr": "nerf_meat",
-		"price": 3,
-		"category": "Raw meat",
-		"defname": "Meat_Nerf"
-	},
-	{
-		"abr": "nexumeat",
-		"price": 3,
-		"category": "Raw meat",
-		"defname": "Meat_Nexu"
 	},
 	{
 		"abr": "nightlingmeat",
@@ -3331,34 +2701,10 @@
 		"defname": "Meat_NightlingF"
 	},
 	{
-		"abr": "nightsabermeat",
-		"price": 3,
-		"category": "Raw meat",
-		"defname": "Meat_WoWNightsaber"
-	},
-	{
-		"abr": "nightsabermeat",
-		"price": 3,
-		"category": "Raw meat",
-		"defname": "Meat_WoWFrostsaber"
-	},
-	{
-		"abr": "nightsabermeat",
-		"price": 3,
-		"category": "Raw meat",
-		"defname": "Meat_WoWManasaber"
-	},
-	{
 		"abr": "panthermeat",
 		"price": 3,
 		"category": "Raw meat",
 		"defname": "Meat_Panther"
-	},
-	{
-		"abr": "porgmeat",
-		"price": 3,
-		"category": "Raw meat",
-		"defname": "Meat_Porg"
 	},
 	{
 		"abr": "pork",
@@ -3373,40 +2719,16 @@
 		"defname": "Meat_Raccoon"
 	},
 	{
-		"abr": "rancormeat",
-		"price": 3,
-		"category": "Raw meat",
-		"defname": "Meat_Rancor"
-	},
-	{
-		"abr": "raptormeat",
-		"price": 3,
-		"category": "Raw meat",
-		"defname": "Meat_WoWRaptor"
-	},
-	{
 		"abr": "ratmeat",
 		"price": 3,
 		"category": "Raw meat",
 		"defname": "Meat_Rat"
 	},
 	{
-		"abr": "reekmeat",
-		"price": 3,
-		"category": "Raw meat",
-		"defname": "Meat_Reek"
-	},
-	{
 		"abr": "rhinocerosmeat",
 		"price": 3,
 		"category": "Raw meat",
 		"defname": "Meat_Rhinoceros"
-	},
-	{
-		"abr": "rontomeat",
-		"price": 3,
-		"category": "Raw meat",
-		"defname": "Meat_Ronto"
 	},
 	{
 		"abr": "sheepmeat",
@@ -3419,12 +2741,6 @@
 		"price": 3,
 		"category": "Raw meat",
 		"defname": "Meat_Squirrel"
-	},
-	{
-		"abr": "tauntaunmeat",
-		"price": 3,
-		"category": "Raw meat",
-		"defname": "Meat_Tauntaun"
 	},
 	{
 		"abr": "thrumbomeat",
@@ -3445,28 +2761,10 @@
 		"defname": "Meat_Turkey"
 	},
 	{
-		"abr": "unicornmeat",
-		"price": 3,
-		"category": "Raw meat",
-		"defname": "Meat_WoWUnicorn"
-	},
-	{
 		"abr": "venison",
 		"price": 3,
 		"category": "Raw meat",
 		"defname": "Meat_Deer"
-	},
-	{
-		"abr": "vulptexmeat",
-		"price": 3,
-		"category": "Raw meat",
-		"defname": "Meat_Vulptex"
-	},
-	{
-		"abr": "wampameat",
-		"price": 3,
-		"category": "Raw meat",
-		"defname": "Meat_Wampa"
 	},
 	{
 		"abr": "wargmeat",
@@ -3865,100 +3163,10 @@
 		"defname": "Leather_Patch"
 	},
 	{
-		"abr": "acklayhide",
-		"price": -10,
-		"category": "Leathers",
-		"defname": "acklay_hide"
-	},
-	{
-		"abr": "banthahide",
-		"price": -10,
-		"category": "Leathers",
-		"defname": "bantha_hide"
-	},
-	{
 		"abr": "birdskin",
 		"price": -10,
 		"category": "Leathers",
 		"defname": "Leather_Bird"
-	},
-	{
-		"abr": "dewbackhide",
-		"price": -10,
-		"category": "Leathers",
-		"defname": "dewback_hide"
-	},
-	{
-		"abr": "frog-dogskin",
-		"price": -10,
-		"category": "Leathers",
-		"defname": "frog-dog_skin"
-	},
-	{
-		"abr": "gizkaskin",
-		"price": -10,
-		"category": "Leathers",
-		"defname": "gizka_skin"
-	},
-	{
-		"abr": "kraytdragonhide",
-		"price": -10,
-		"category": "Leathers",
-		"defname": "KraytDragon_hide"
-	},
-	{
-		"abr": "nerfhide",
-		"price": -10,
-		"category": "Leathers",
-		"defname": "nerf_hide"
-	},
-	{
-		"abr": "nexufur",
-		"price": -10,
-		"category": "Leathers",
-		"defname": "nexu_fur"
-	},
-	{
-		"abr": "porghide",
-		"price": -10,
-		"category": "Leathers",
-		"defname": "porg_hide"
-	},
-	{
-		"abr": "rancorhide",
-		"price": -10,
-		"category": "Leathers",
-		"defname": "rancor_hide"
-	},
-	{
-		"abr": "reekhide",
-		"price": -10,
-		"category": "Leathers",
-		"defname": "reek_hide"
-	},
-	{
-		"abr": "rontohide",
-		"price": -10,
-		"category": "Leathers",
-		"defname": "ronto_hide"
-	},
-	{
-		"abr": "tauntaunhide",
-		"price": -10,
-		"category": "Leathers",
-		"defname": "tauntaun_hide"
-	},
-	{
-		"abr": "vulptexhide",
-		"price": -10,
-		"category": "Leathers",
-		"defname": "vulptex_hide"
-	},
-	{
-		"abr": "wampahide",
-		"price": -10,
-		"category": "Leathers",
-		"defname": "wampa_hide"
 	},
 	{
 		"abr": "lightleather",
@@ -4003,12 +3211,6 @@
 		"defname": "Leather_Plain"
 	},
 	{
-		"abr": "rodianleather",
-		"price": -10,
-		"category": "Leathers",
-		"defname": "StarWarsRaces_Leather_Rodian"
-	},
-	{
 		"abr": "bluefur",
 		"price": -10,
 		"category": "Leathers",
@@ -4031,24 +3233,6 @@
 		"price": -10,
 		"category": "Leathers",
 		"defname": "Leather_Elephant"
-	},
-	{
-		"abr": "forsakenhorseleather",
-		"price": -10,
-		"category": "Leathers",
-		"defname": "Leather_WoWForsakenhorse"
-	},
-	{
-		"abr": "forsakenleather",
-		"price": -10,
-		"category": "Leathers",
-		"defname": "Leather_WoWForsaken"
-	},
-	{
-		"abr": "murlocleather",
-		"price": -10,
-		"category": "Leathers",
-		"defname": "Leather_WoWMurloc"
 	},
 	{
 		"abr": "pantherafur",
@@ -4075,34 +3259,10 @@
 		"defname": "Leather_Bear"
 	},
 	{
-		"abr": "dragonhawkleather",
-		"price": -10,
-		"category": "Leathers",
-		"defname": "Leather_WoWDragonhawk"
-	},
-	{
 		"abr": "foxfur",
 		"price": -10,
 		"category": "Leathers",
 		"defname": "Leather_Fox"
-	},
-	{
-		"abr": "hawkstriderleather",
-		"price": -10,
-		"category": "Leathers",
-		"defname": "Leather_WoWHawkstrider"
-	},
-	{
-		"abr": "horseleather",
-		"price": -10,
-		"category": "Leathers",
-		"defname": "Leather_WoWHorse"
-	},
-	{
-		"abr": "kodoleather",
-		"price": -10,
-		"category": "Leathers",
-		"defname": "Leather_WoWKodo"
 	},
 	{
 		"abr": "brownfur",
@@ -4111,100 +3271,16 @@
 		"defname": "AEXP_Leather_Brownfur"
 	},
 	{
-		"abr": "direwolfleather",
-		"price": -10,
-		"category": "Leathers",
-		"defname": "Leather_WoWDirewolf"
-	},
-	{
-		"abr": "nightsaberleather",
-		"price": -10,
-		"category": "Leathers",
-		"defname": "Leather_WoWNightsaber"
-	},
-	{
-		"abr": "raptorleather",
-		"price": -10,
-		"category": "Leathers",
-		"defname": "Leather_WoWRaptor"
-	},
-	{
-		"abr": "bloodelfleather",
-		"price": -10,
-		"category": "Leathers",
-		"defname": "Leather_WoWBloodElf"
-	},
-	{
-		"abr": "highelfleather",
-		"price": -10,
-		"category": "Leathers",
-		"defname": "Leather_WoWHighElf"
-	},
-	{
 		"abr": "humanleather",
 		"price": -10,
 		"category": "Leathers",
 		"defname": "Leather_Human"
 	},
 	{
-		"abr": "humanlikeleather",
-		"price": -10,
-		"category": "Leathers",
-		"defname": "StarWarsRaces_Leather_Humanlike"
-	},
-	{
-		"abr": "mag'harorcleather",
-		"price": -10,
-		"category": "Leathers",
-		"defname": "Leather_WoWMagharOrc"
-	},
-	{
-		"abr": "nightelfleather",
-		"price": -10,
-		"category": "Leathers",
-		"defname": "Leather_WoWNightElf"
-	},
-	{
-		"abr": "nightborneleather",
-		"price": -10,
-		"category": "Leathers",
-		"defname": "Leather_WoWNightborne"
-	},
-	{
-		"abr": "orcleather",
-		"price": -10,
-		"category": "Leathers",
-		"defname": "Leather_WoWOrc"
-	},
-	{
 		"abr": "rhinocerosleather",
 		"price": -10,
 		"category": "Leathers",
 		"defname": "Leather_Rhinoceros"
-	},
-	{
-		"abr": "trollleather",
-		"price": -10,
-		"category": "Leathers",
-		"defname": "Leather_WoWTroll"
-	},
-	{
-		"abr": "twi'lekleather",
-		"price": -10,
-		"category": "Leathers",
-		"defname": "StarWarsRaces_Leather_Twilek"
-	},
-	{
-		"abr": "voidelfleather",
-		"price": -10,
-		"category": "Leathers",
-		"defname": "Leather_WoWVoidElf"
-	},
-	{
-		"abr": "unicornleather",
-		"price": -10,
-		"category": "Leathers",
-		"defname": "Leather_WoWUnicorn"
 	},
 	{
 		"abr": "chinchillafur",
@@ -4237,24 +3313,6 @@
 		"defname": "ElephantTusk"
 	},
 	{
-		"abr": "banthahorn",
-		"price": -10,
-		"category": "Items",
-		"defname": "BanthaHorn"
-	},
-	{
-		"abr": "lightsabercasing",
-		"price": -10,
-		"category": "Items",
-		"defname": "PJ_SaberCasing"
-	},
-	{
-		"abr": "lightsaberinternalcomponents",
-		"price": -10,
-		"category": "Items",
-		"defname": "PJ_SaberInternal"
-	},
-	{
 		"abr": "neurotrainermechserum",
 		"price": -10,
 		"category": "Items",
@@ -4271,12 +3329,6 @@
 		"price": -10,
 		"category": "Items",
 		"defname": "TechprofSubpersonaCore"
-	},
-	{
-		"abr": "kraytdragonhorn",
-		"price": -10,
-		"category": "Items",
-		"defname": "KraytDragonHorn"
 	},
 	{
 		"abr": "healermechserum",
@@ -4297,12 +3349,6 @@
 		"defname": "MechSerumYouth"
 	},
 	{
-		"abr": "rancorskull",
-		"price": -10,
-		"category": "Items",
-		"defname": "RancorSkull"
-	},
-	{
 		"abr": "resurrectormechserum",
 		"price": -10,
 		"category": "Items",
@@ -4313,18 +3359,6 @@
 		"price": -10,
 		"category": "Items",
 		"defname": "AIPersonaCore"
-	},
-	{
-		"abr": "ewokhood",
-		"price": -10,
-		"category": "Headgear",
-		"defname": "StarWarsRaces_Ewok_Hood"
-	},
-	{
-		"abr": "twi'lekheadwrap",
-		"price": -10,
-		"category": "Headgear",
-		"defname": "StarWarsRaces_TwilekHeadCovering"
 	},
 	{
 		"abr": "warveil",
@@ -4339,22 +3373,10 @@
 		"defname": "Apparel_BowlerHat"
 	},
 	{
-		"abr": "alliancepilothelmet(blue)",
-		"price": -10,
-		"category": "Headgear",
-		"defname": "PJ_RebPilot_H_Blue"
-	},
-	{
 		"abr": "tuque",
 		"price": -10,
 		"category": "Headgear",
 		"defname": "Apparel_Tuque"
-	},
-	{
-		"abr": "twi'lektuque",
-		"price": -10,
-		"category": "Headgear",
-		"defname": "StarWarsRaces_TwilekTuque"
 	},
 	{
 		"abr": "cowboyhat",
@@ -4387,52 +3409,10 @@
 		"defname": "MedTimes_Headgear_WinterHat"
 	},
 	{
-		"abr": "rebelcoldhelmet",
-		"price": -10,
-		"category": "Headgear",
-		"defname": "PJ_RebSnowHat"
-	},
-	{
-		"abr": "rebelalliancehelmet",
-		"price": -10,
-		"category": "Headgear",
-		"defname": "PJ_RebHat"
-	},
-	{
-		"abr": "rebelscouthelmet(brown)",
-		"price": -10,
-		"category": "Headgear",
-		"defname": "PJ_RebLAVHat"
-	},
-	{
-		"abr": "rebelscouthelmet(forest)",
-		"price": -10,
-		"category": "Headgear",
-		"defname": "PJ_RebScoutHat"
-	},
-	{
-		"abr": "alliancepilothelmet(red)",
-		"price": -10,
-		"category": "Headgear",
-		"defname": "PJ_RebPilot_H_Red"
-	},
-	{
-		"abr": "twi'lekheadwrapwithgoggles",
-		"price": -10,
-		"category": "Headgear",
-		"defname": "StarWarsRaces_TwilekGoggles"
-	},
-	{
 		"abr": "tribalheaddress",
 		"price": -10,
 		"category": "Headgear",
 		"defname": "Apparel_TribalHeaddress"
-	},
-	{
-		"abr": "twi'lekheadwrapadecorativesymbol",
-		"price": -10,
-		"category": "Headgear",
-		"defname": "StarWarsRaces_TwilekDecorative"
 	},
 	{
 		"abr": "goblinhood",
@@ -4459,58 +3439,10 @@
 		"defname": "Goblin_ShamanHood"
 	},
 	{
-		"abr": "customhood",
-		"price": -10,
-		"category": "Headgear",
-		"defname": "PJ_CustomHood"
-	},
-	{
-		"abr": "imperialcommandcap",
-		"price": -10,
-		"category": "Headgear",
-		"defname": "PJ_ImpHat"
-	},
-	{
-		"abr": "imperialcommandcap",
-		"price": -10,
-		"category": "Headgear",
-		"defname": "PJ_ImpHatBrn"
-	},
-	{
-		"abr": "imperialcommandcap(black)",
-		"price": -10,
-		"category": "Headgear",
-		"defname": "PJ_ImpHatB"
-	},
-	{
-		"abr": "imperialcommandcap(dark)",
-		"price": -10,
-		"category": "Headgear",
-		"defname": "PJ_ImpSTOHat"
-	},
-	{
-		"abr": "imperialnavyhelm",
-		"price": -10,
-		"category": "Headgear",
-		"defname": "PJ_ImpNavyH"
-	},
-	{
-		"abr": "jedihood",
-		"price": -10,
-		"category": "Headgear",
-		"defname": "PJ_JediHood"
-	},
-	{
 		"abr": "psychicfoilhelmet",
 		"price": -10,
 		"category": "Headgear",
 		"defname": "Apparel_PsychicFoilHelmet"
-	},
-	{
-		"abr": "sithhood",
-		"price": -10,
-		"category": "Headgear",
-		"defname": "PJ_SithHood"
 	},
 	{
 		"abr": "advancedhelmet",
@@ -4523,42 +3455,6 @@
 		"price": -10,
 		"category": "Headgear",
 		"defname": "Apparel_PowerArmorHelmet"
-	},
-	{
-		"abr": "shoretrooperhelm",
-		"price": -10,
-		"category": "Headgear",
-		"defname": "PJ_SHHelm"
-	},
-	{
-		"abr": "stormtrooperhelm",
-		"price": -10,
-		"category": "Headgear",
-		"defname": "PJ_STHelm"
-	},
-	{
-		"abr": "scouttrooperhelmet",
-		"price": -10,
-		"category": "Headgear",
-		"defname": "PJ_SCTHelm"
-	},
-	{
-		"abr": "stormtrooperhelm",
-		"price": -10,
-		"category": "Headgear",
-		"defname": "PJ_DTHelm"
-	},
-	{
-		"abr": "tiepilothelmet",
-		"price": -10,
-		"category": "Headgear",
-		"defname": "PJ_TIEHelm"
-	},
-	{
-		"abr": "mandohelm",
-		"price": -10,
-		"category": "Headgear",
-		"defname": "PJ_MandoHelm"
 	},
 	{
 		"abr": "forsakenhood",
@@ -4985,18 +3881,6 @@
 		"price": -10,
 		"category": "Furniture",
 		"defname": "MedTimes_Cot"
-	},
-	{
-		"abr": "meditationpad(jedi)",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "PJ_ForceMedPadJ"
-	},
-	{
-		"abr": "meditationpad(sith)",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "PJ_ForceMedPadS"
 	},
 	{
 		"abr": "game-of-urboard",
@@ -5449,34 +4333,10 @@
 		"defname": "AEXP_EggDuckUnfertilized"
 	},
 	{
-		"abr": "gizkaegg(unfert.)",
-		"price": 12,
-		"category": "Eggs (unfert.)",
-		"defname": "EggGizkaUnfertilized"
-	},
-	{
-		"abr": "porgegg(unfert.)",
-		"price": 12,
-		"category": "Eggs (unfert.)",
-		"defname": "EggPorgUnfertilized"
-	},
-	{
 		"abr": "gooseegg(unfert.)",
 		"price": 15,
 		"category": "Eggs (unfert.)",
 		"defname": "AEXP_EggGooseUnfertilized"
-	},
-	{
-		"abr": "gizkaegg(fert.)",
-		"price": 10,
-		"category": "Eggs (fert.)",
-		"defname": "EggGizkaFertilized"
-	},
-	{
-		"abr": "porgegg(fert.)",
-		"price": 10,
-		"category": "Eggs (fert.)",
-		"defname": "EggPorgFertilized"
 	},
 	{
 		"abr": "chickenegg(fert.)",
@@ -5537,66 +4397,6 @@
 		"price": 67,
 		"category": "Eggs (fert.)",
 		"defname": "EggCobraFertilized"
-	},
-	{
-		"abr": "dewbackegg(fert.)",
-		"price": 67,
-		"category": "Eggs (fert.)",
-		"defname": "EggDewbackFertilized"
-	},
-	{
-		"abr": "dmurlocegg(fert.)",
-		"price": 125,
-		"category": "Eggs (fert.)",
-		"defname": "EggWoWMurlocFertilized"
-	},
-	{
-		"abr": "dragonhawkegg(fert.)",
-		"price": 125,
-		"category": "Eggs (fert.)",
-		"defname": "EggWoWDragonhawkFertilized"
-	},
-	{
-		"abr": "hawkstrideregg(fert.)",
-		"price": 125,
-		"category": "Eggs (fert.)",
-		"defname": "EggWoWHawkstriderFertilized"
-	},
-	{
-		"abr": "hawkstrideregg(fert.)",
-		"price": 125,
-		"category": "Eggs (fert.)",
-		"defname": "EggWoWVoidstriderFertilized"
-	},
-	{
-		"abr": "acklayegg(fert.)",
-		"price": 133,
-		"category": "Eggs (fert.)",
-		"defname": "EggAcklayFertilized"
-	},
-	{
-		"abr": "kodoegg(fert.)",
-		"price": 167,
-		"category": "Eggs (fert.)",
-		"defname": "EggWoWKodoFertilized"
-	},
-	{
-		"abr": "raptoregg(fert.)",
-		"price": 167,
-		"category": "Eggs (fert.)",
-		"defname": "EggWoWRaptorFertilized"
-	},
-	{
-		"abr": "kraytdragonegg(fert.)",
-		"price": 233,
-		"category": "Eggs (fert.)",
-		"defname": "EggKraytDragonFertilized"
-	},
-	{
-		"abr": "rancoregg(fert.)",
-		"price": 233,
-		"category": "Eggs (fert.)",
-		"defname": "EggRancorFertilized"
 	},
 	{
 		"abr": "polymerantifreeze",
@@ -6733,106 +5533,10 @@
 		"defname": "Goblin_Quiver"
 	},
 	{
-		"abr": "imperialisbuniform(outer)",
-		"price": -10,
-		"category": "Uniforms",
-		"defname": "PJ_ImpUniformISBSHELL"
-	},
-	{
-		"abr": "imperialnavyuniform(inner-black)",
-		"price": -10,
-		"category": "Uniforms",
-		"defname": "PJ_ImpUniformBlack"
-	},
-	{
-		"abr": "imperialnavyuniform(outer-black)",
-		"price": -10,
-		"category": "Uniforms",
-		"defname": "PJ_ImpUniformBlackSHELL"
-	},
-	{
-		"abr": "imperialnavyuniform(outer-brown)",
-		"price": -10,
-		"category": "Uniforms",
-		"defname": "PJ_ImpUniformBrownSHELL"
-	},
-	{
-		"abr": "imperialnavyuniform(outer-dark)",
-		"price": -10,
-		"category": "Uniforms",
-		"defname": "PJ_ImpNAVYSHELL"
-	},
-	{
-		"abr": "imperialnavyuniform(outer-green)",
-		"price": -10,
-		"category": "Uniforms",
-		"defname": "PJ_ImpUniformGrnSHELL"
-	},
-	{
-		"abr": "imperialuniformbodysuit(inner-mesh)",
-		"price": -10,
-		"category": "Uniforms",
-		"defname": "PJ_ImpUniform"
-	},
-	{
-		"abr": "stormtrooperofficeruniform(inner)",
-		"price": -10,
-		"category": "Uniforms",
-		"defname": "PJ_STOffUniform"
-	},
-	{
-		"abr": "yellowflightsuit",
-		"price": -10,
-		"category": "Uniforms",
-		"defname": "PJ_GenFlight_Y"
-	},
-	{
-		"abr": "modifiedshirt",
-		"price": -10,
-		"category": "Uniforms",
-		"defname": "PJ_RebCollarShirt"
-	},
-	{
-		"abr": "jedigarb",
-		"price": -10,
-		"category": "Robes",
-		"defname": "PJ_InnerRobes"
-	},
-	{
-		"abr": "uniformpants",
-		"price": -10,
-		"category": "Uniforms",
-		"defname": "PJ_Apparel_Pants"
-	},
-	{
 		"abr": "goblinleatherarmor",
 		"price": -10,
 		"category": "Apparel",
 		"defname": "Goblin_LeatherArmour"
-	},
-	{
-		"abr": "scoutjacket",
-		"price": -10,
-		"category": "Jackets",
-		"defname": "PJ_Reb_ScoutJacket"
-	},
-	{
-		"abr": "scoutjacket(brown)",
-		"price": -10,
-		"category": "Jackets",
-		"defname": "PJ_Reb_ScoutLAVJacket"
-	},
-	{
-		"abr": "trooperjacket",
-		"price": -10,
-		"category": "Jackets",
-		"defname": "PJ_Reb_TroopJacket"
-	},
-	{
-		"abr": "camojacket",
-		"price": -10,
-		"category": "Jackets",
-		"defname": "PJ_Reb_CamoJacket"
 	},
 	{
 		"abr": "goblinberserkerarmor",
@@ -6841,118 +5545,10 @@
 		"defname": "Goblin_BerserkerArmour"
 	},
 	{
-		"abr": "customjedirobe",
-		"price": -10,
-		"category": "Robes",
-		"defname": "PJ_JFac_Robe"
-	},
-	{
-		"abr": "customsithrobes",
-		"price": -10,
-		"category": "Robes",
-		"defname": "PJ_SithFac_Robe"
-	},
-	{
-		"abr": "reinforcedarmorvest",
-		"price": -10,
-		"category": "Armors",
-		"defname": "PJ_Apparel_XVestPlate"
-	},
-	{
-		"abr": "jedirobe",
-		"price": -10,
-		"category": "Robes",
-		"defname": "PJ_Jedi_Robe"
-	},
-	{
-		"abr": "sithrobes",
-		"price": -10,
-		"category": "Robes",
-		"defname": "PJ_Sith_Robe"
-	},
-	{
 		"abr": "goblinwarlordarmor",
 		"price": -10,
 		"category": "Apparel",
 		"defname": "Goblin_WarlordArmor"
-	},
-	{
-		"abr": "rebelallianceofficeruniform",
-		"price": -10,
-		"category": "Uniforms",
-		"defname": "PJ_RebOfficer"
-	},
-	{
-		"abr": "rebelb-wingflightsuit",
-		"price": -10,
-		"category": "Uniforms",
-		"defname": "PJ_RebBFlight"
-	},
-	{
-		"abr": "rebelflightsuit",
-		"price": -10,
-		"category": "Uniforms",
-		"defname": "PJ_RebFlight"
-	},
-	{
-		"abr": "compositearmor",
-		"price": -10,
-		"category": "Armors",
-		"defname": "PJ_CompArmor"
-	},
-	{
-		"abr": "shoretrooperarmor",
-		"price": -10,
-		"category": "Armors",
-		"defname": "PJ_TroopArmorSh"
-	},
-	{
-		"abr": "shoretrooperarmor(cpt)",
-		"price": -10,
-		"category": "Armors",
-		"defname": "PJ_TroopArmorShC"
-	},
-	{
-		"abr": "shoretrooperarmor(sl)",
-		"price": -10,
-		"category": "Armors",
-		"defname": "PJ_TroopArmorShSL"
-	},
-	{
-		"abr": "stormtrooperarmor",
-		"price": -10,
-		"category": "Armors",
-		"defname": "PJ_TroopArmor"
-	},
-	{
-		"abr": "stormtrooperarmor(jo)",
-		"price": -10,
-		"category": "Armors",
-		"defname": "PJ_TroopArmorJO"
-	},
-	{
-		"abr": "stormtrooperarmor(nco)",
-		"price": -10,
-		"category": "Armors",
-		"defname": "PJ_TroopArmorNCO"
-	},
-	{
-		"abr": "stormtrooperarmor(so)",
-		"price": -10,
-		"category": "Armors",
-		"defname": "PJ_TroopArmorSO"
-	},
-	{
-		"abr": "deathtrooperarmor",
-		"price": -10,
-		"category": "Armors",
-		"defname": "PJ_TroopArmorDT"
-	},
-	{
-		"abr": "deathtrooperarmor(cmd)",
-		"price": -10,
-		"category": "Armors",
-		"defname": "PJ_TroopArmorDTC"
 	},
 	{
 		"abr": "forsakencloak",
@@ -6967,34 +5563,10 @@
 		"defname": "TForsakenA"
 	},
 	{
-		"abr": "mandoarmor",
-		"price": -10,
-		"category": "Armors",
-		"defname": "PJ_MandoArmor"
-	},
-	{
-		"abr": "barky'sclanarmor",
-		"price": -10,
-		"category": "Armors",
-		"defname": "PJ_BarkMandoArmor"
-	},
-	{
-		"abr": "mandoveteranarmor",
-		"price": -10,
-		"category": "Armors",
-		"defname": "PJ_VetMandoArmor"
-	},
-	{
 		"abr": "milk",
 		"price": 5,
 		"category": "Raw animal products",
 		"defname": "Milk"
-	},
-	{
-		"abr": "bluemilk",
-		"price": 6,
-		"category": "Raw animal products",
-		"defname": "BlueMilk"
 	},
 	{
 		"abr": "insectjelly",
@@ -7051,12 +5623,6 @@
 		"defname": "AEXP_Duck"
 	},
 	{
-		"abr": "porg",
-		"price": -10,
-		"category": "Animal",
-		"defname": "Porg"
-	},
-	{
 		"abr": "goose",
 		"price": -10,
 		"category": "Animal",
@@ -7073,18 +5639,6 @@
 		"price": -10,
 		"category": "Animal",
 		"defname": "Cat"
-	},
-	{
-		"abr": "frog-dog",
-		"price": -10,
-		"category": "Animal",
-		"defname": "Frog-dog"
-	},
-	{
-		"abr": "gizka",
-		"price": -10,
-		"category": "Animal",
-		"defname": "Gizka"
 	},
 	{
 		"abr": "iguana",
@@ -7249,12 +5803,6 @@
 		"defname": "Ostrich"
 	},
 	{
-		"abr": "vulptex",
-		"price": -10,
-		"category": "Animal",
-		"defname": "Vulptex"
-	},
-	{
 		"abr": "caribou",
 		"price": -10,
 		"category": "Animal",
@@ -7327,12 +5875,6 @@
 		"defname": "AEXP_Donkey"
 	},
 	{
-		"abr": "nerf",
-		"price": -10,
-		"category": "Animal",
-		"defname": "Nerf"
-	},
-	{
 		"abr": "quarterhorse",
 		"price": -10,
 		"category": "Animal",
@@ -7363,18 +5905,6 @@
 		"defname": "Megaspider"
 	},
 	{
-		"abr": "murloc",
-		"price": -10,
-		"category": "Animal",
-		"defname": "WoWMurloc"
-	},
-	{
-		"abr": "nexu",
-		"price": -10,
-		"category": "Animal",
-		"defname": "Nexu"
-	},
-	{
 		"abr": "horse",
 		"price": -10,
 		"category": "Animal",
@@ -7399,46 +5929,10 @@
 		"defname": "Panther"
 	},
 	{
-		"abr": "bantha",
-		"price": -10,
-		"category": "Animal",
-		"defname": "Bantha"
-	},
-	{
-		"abr": "dewback",
-		"price": -10,
-		"category": "Animal",
-		"defname": "Dewback"
-	},
-	{
-		"abr": "elekk",
-		"price": -10,
-		"category": "Animal",
-		"defname": "WoWElekk"
-	},
-	{
-		"abr": "horse",
-		"price": -10,
-		"category": "Animal",
-		"defname": "WoWHorse"
-	},
-	{
-		"abr": "kodo",
-		"price": -10,
-		"category": "Animal",
-		"defname": "WoWKodo"
-	},
-	{
 		"abr": "nightling",
 		"price": -10,
 		"category": "Animal",
 		"defname": "NightlingF"
-	},
-	{
-		"abr": "skeletalhorse",
-		"price": -10,
-		"category": "Animal",
-		"defname": "WoWForsakenhorse"
 	},
 	{
 		"abr": "blackhorse",
@@ -7451,12 +5945,6 @@
 		"price": -10,
 		"category": "Animal",
 		"defname": "AndroidChicken"
-	},
-	{
-		"abr": "wampa",
-		"price": -10,
-		"category": "Animal",
-		"defname": "Wampa"
 	},
 	{
 		"abr": "whitehorse",
@@ -7489,30 +5977,6 @@
 		"defname": "AndroidMuff"
 	},
 	{
-		"abr": "dragonhawk",
-		"price": -10,
-		"category": "Animal",
-		"defname": "WoWDragonhawk"
-	},
-	{
-		"abr": "hawkstrider",
-		"price": -10,
-		"category": "Animal",
-		"defname": "WoWHawkstrider"
-	},
-	{
-		"abr": "unicorn",
-		"price": -10,
-		"category": "Animal",
-		"defname": "WoWUnicorn"
-	},
-	{
-		"abr": "voidstrider",
-		"price": -10,
-		"category": "Animal",
-		"defname": "WoWVoidstrider"
-	},
-	{
 		"abr": "grizzlybear",
 		"price": -10,
 		"category": "Animal",
@@ -7537,12 +6001,6 @@
 		"defname": "Android1Tier"
 	},
 	{
-		"abr": "reek",
-		"price": -10,
-		"category": "Animal",
-		"defname": "Reek"
-	},
-	{
 		"abr": "n.solutionunit",
 		"price": -10,
 		"category": "Animal",
@@ -7555,46 +6013,10 @@
 		"defname": "RoboticSheep"
 	},
 	{
-		"abr": "tauntaun",
-		"price": -10,
-		"category": "Animal",
-		"defname": "Tauntaun"
-	},
-	{
-		"abr": "ewok",
-		"price": -10,
-		"category": "Animal",
-		"defname": "StarWarsRaces_Ewok"
-	},
-	{
 		"abr": "human",
 		"price": -10,
 		"category": "Animal",
 		"defname": "Human"
-	},
-	{
-		"abr": "rodian",
-		"price": -10,
-		"category": "Animal",
-		"defname": "StarWarsRaces_Rodian"
-	},
-	{
-		"abr": "togruta",
-		"price": -10,
-		"category": "Animal",
-		"defname": "StarWarsRaces_Togruta"
-	},
-	{
-		"abr": "twi'lek",
-		"price": -10,
-		"category": "Animal",
-		"defname": "StarWarsRaces_Twilek"
-	},
-	{
-		"abr": "acklay",
-		"price": -10,
-		"category": "Animal",
-		"defname": "Acklay"
 	},
 	{
 		"abr": "forsaken",
@@ -7603,196 +6025,10 @@
 		"defname": "Alien_Forsaken"
 	},
 	{
-		"abr": "azerothianhuman",
-		"price": -10,
-		"category": "Animal",
-		"defname": "WoW_Human"
-	},
-	{
-		"abr": "forsaken",
-		"price": -10,
-		"category": "Animal",
-		"defname": "WoW_Forsaken"
-	},
-	{
-		"abr": "forsakenbansheequeen",
-		"price": -10,
-		"category": "Animal",
-		"defname": "WoW_ForsakenHighElfFemale"
-	},
-	{
-		"abr": "forsakenhighelf",
-		"price": -10,
-		"category": "Animal",
-		"defname": "WoW_ForsakenHighElf"
-	},
-	{
-		"abr": "forsakennightelf",
-		"price": -10,
-		"category": "Animal",
-		"defname": "WoW_ForsakenNightElf"
-	},
-	{
-		"abr": "skeletalhorse",
-		"price": -10,
-		"category": "Animal",
-		"defname": "WoWEpicForsakenhorse"
-	},
-	{
-		"abr": "direwolf",
-		"price": -10,
-		"category": "Animal",
-		"defname": "WoWDirewolf"
-	},
-	{
-		"abr": "frostwolf",
-		"price": -10,
-		"category": "Animal",
-		"defname": "WoWFrostwolf"
-	},
-	{
-		"abr": "manasaber",
-		"price": -10,
-		"category": "Animal",
-		"defname": "WoWManasaber"
-	},
-	{
-		"abr": "nightsaber",
-		"price": -10,
-		"category": "Animal",
-		"defname": "WoWNightsaber"
-	},
-	{
-		"abr": "raptor",
-		"price": -10,
-		"category": "Animal",
-		"defname": "WoWRaptor"
-	},
-	{
-		"abr": "ronto",
-		"price": -10,
-		"category": "Animal",
-		"defname": "Ronto"
-	},
-	{
 		"abr": "t2android",
 		"price": -10,
 		"category": "Animal",
 		"defname": "Android2Tier"
-	},
-	{
-		"abr": "wookie",
-		"price": -10,
-		"category": "Animal",
-		"defname": "StarWarsRaces_Wookie"
-	},
-	{
-		"abr": "bloodelf",
-		"price": -10,
-		"category": "Animal",
-		"defname": "WoW_BloodElf"
-	},
-	{
-		"abr": "bloodelf",
-		"price": -10,
-		"category": "Animal",
-		"defname": "WoW_BloodElfLight"
-	},
-	{
-		"abr": "frostsaber",
-		"price": -10,
-		"category": "Animal",
-		"defname": "WoWFrostsaber"
-	},
-	{
-		"abr": "mag'harorc",
-		"price": -10,
-		"category": "Animal",
-		"defname": "WoW_MagharOrc"
-	},
-	{
-		"abr": "nightelf",
-		"price": -10,
-		"category": "Animal",
-		"defname": "WoW_NightElf"
-	},
-	{
-		"abr": "nightelf",
-		"price": -10,
-		"category": "Animal",
-		"defname": "WoW_NightElfFemale"
-	},
-	{
-		"abr": "nightelf",
-		"price": -10,
-		"category": "Animal",
-		"defname": "WoW_NightElfMale"
-	},
-	{
-		"abr": "nightelfnightwarrior",
-		"price": -10,
-		"category": "Animal",
-		"defname": "WoW_NightWarrior"
-	},
-	{
-		"abr": "nightelfnightwarrior",
-		"price": -10,
-		"category": "Animal",
-		"defname": "WoW_NightWarriorFemale"
-	},
-	{
-		"abr": "nightelfnightwarrior",
-		"price": -10,
-		"category": "Animal",
-		"defname": "WoW_NightWarriorMale"
-	},
-	{
-		"abr": "orc",
-		"price": -10,
-		"category": "Animal",
-		"defname": "WoW_Orc"
-	},
-	{
-		"abr": "troll",
-		"price": -10,
-		"category": "Animal",
-		"defname": "WoW_Troll"
-	},
-	{
-		"abr": "draenei",
-		"price": -10,
-		"category": "Animal",
-		"defname": "WoW_Draenei"
-	},
-	{
-		"abr": "rancor",
-		"price": -10,
-		"category": "Animal",
-		"defname": "Rancor"
-	},
-	{
-		"abr": "highelf",
-		"price": -10,
-		"category": "Animal",
-		"defname": "WoW_HighElf"
-	},
-	{
-		"abr": "nightborne",
-		"price": -10,
-		"category": "Animal",
-		"defname": "WoW_Nightborne"
-	},
-	{
-		"abr": "voidelf",
-		"price": -10,
-		"category": "Animal",
-		"defname": "WoW_VoidElf"
-	},
-	{
-		"abr": "kraytdragon",
-		"price": -10,
-		"category": "Animal",
-		"defname": "KraytDragon"
 	},
 	{
 		"abr": "thrumbo",
@@ -8299,12 +6535,6 @@
 		"defname": "ForsakenCombatBlade"
 	},
 	{
-		"abr": "skeleton",
-		"price": -10,
-		"category": "Animal",
-		"defname": "WoW_Skeleton"
-	},
-	{
 		"abr": "surgicalinstruments",
 		"price": -10,
 		"category": "Misc",
@@ -8315,12 +6545,6 @@
 		"price": -10,
 		"category": "Misc",
 		"defname": "SurgicalLamp"
-	},
-	{
-		"abr": "worgen",
-		"price": -10,
-		"category": "Animal",
-		"defname": "WoW_Worgen"
 	},
 	{
 		"abr": "agilityserum",
@@ -8533,40 +6757,10 @@
 		"defname": "RF_Gun_Mosin"
 	},
 	{
-		"abr": "7thlegionclaymore",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "WoW_MeleeWeapon_7thLegionClaymore"
-	},
-	{
-		"abr": "7thlegionhalberd",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "WoW_MeleeWeapon_7thLegionHalberd"
-	},
-	{
-		"abr": "7thlegionlongbow",
-		"price": -10,
-		"category": "Ranged weapons",
-		"defname": "WoW_RangedWeapon_7thLegionLongbow"
-	},
-	{
-		"abr": "7thlegionlongsword",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "WoW_MeleeWeapon_7thLegionlongsword"
-	},
-	{
 		"abr": "aachoneybadger",
 		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_AACHoneyBadger_rt"
-	},
-	{
-		"abr": "aarkoantiquecrossbow",
-		"price": -10,
-		"category": "Ranged weapons",
-		"defname": "WoW_RangedWeapon_AarkoAntiqueCrossbow"
 	},
 	{
 		"abr": "abyssaleel",
@@ -8959,12 +7153,6 @@
 		"defname": "AEXP_EggAnacondaFertilized"
 	},
 	{
-		"abr": "anchoritemace",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "WoW_MeleeWeapon_AnchoriteMace"
-	},
-	{
 		"abr": "anchovy",
 		"price": 2,
 		"category": "Raw fish",
@@ -9061,12 +7249,6 @@
 		"defname": "AR_Aqueduct"
 	},
 	{
-		"abr": "arachnidmeat",
-		"price": 3,
-		"category": "Raw meat",
-		"defname": "Meat_ROMA_SpiderRaceGiant"
-	},
-	{
 		"abr": "archotechshieldgenerator",
 		"price": -10,
 		"category": "Special",
@@ -9119,12 +7301,6 @@
 		"price": 3,
 		"category": "Raw meat",
 		"defname": "Meat_AA_Skyeel"
-	},
-	{
-		"abr": "ardentwarhammer",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "WoW_MeleeWeapon_ArdentWarhammer"
 	},
 	{
 		"abr": "armchair",
@@ -9307,66 +7483,6 @@
 		"defname": "VWE_MeleeWeapon_Axe"
 	},
 	{
-		"abr": "b-1battledroid",
-		"price": -10,
-		"category": "Animal",
-		"defname": "Battle_Droid"
-	},
-	{
-		"abr": "b-1battledroidmeat",
-		"price": 3,
-		"category": "Raw meat",
-		"defname": "Meat_Battle_Droid"
-	},
-	{
-		"abr": "b-1droidspecialist",
-		"price": -10,
-		"category": "Animal",
-		"defname": "B-1_Droid_Specialist"
-	},
-	{
-		"abr": "b-1droidspecialistmeat",
-		"price": 3,
-		"category": "Raw meat",
-		"defname": "Meat_B-1_Droid_Specialist"
-	},
-	{
-		"abr": "b-1_commander_droid",
-		"price": -10,
-		"category": "Animal",
-		"defname": "B-1_Commander_Droid"
-	},
-	{
-		"abr": "b-1_commander_droidmeat",
-		"price": 3,
-		"category": "Raw meat",
-		"defname": "Meat_B-1_Commander_Droid"
-	},
-	{
-		"abr": "b-2superbattledroid",
-		"price": -10,
-		"category": "Animal",
-		"defname": "Super_Battle_Droid"
-	},
-	{
-		"abr": "b-2superbattledroidmeat",
-		"price": 3,
-		"category": "Raw meat",
-		"defname": "Meat_Super_Battle_Droid"
-	},
-	{
-		"abr": "b-2superdroidwristblaster",
-		"price": -10,
-		"category": "Ranged weapons",
-		"defname": "B-2_Super_Droid_Wrist_Blaster"
-	},
-	{
-		"abr": "b-2superdroidwristcannon",
-		"price": -10,
-		"category": "Ranged weapons",
-		"defname": "B-2_Super_Droid_Wrist_Cannon"
-	},
-	{
 		"abr": "balaclava",
 		"price": -10,
 		"category": "Headgear",
@@ -9515,18 +7631,6 @@
 		"price": 3,
 		"category": "Raw fish",
 		"defname": "VCEF_RawBass"
-	},
-	{
-		"abr": "bat",
-		"price": -10,
-		"category": "Animal",
-		"defname": "ROMV_BatRace"
-	},
-	{
-		"abr": "batmeat",
-		"price": 3,
-		"category": "Raw meat",
-		"defname": "Meat_ROMV_BatRace"
 	},
 	{
 		"abr": "baton",
@@ -9793,12 +7897,6 @@
 		"defname": "Apparel_BlastShield"
 	},
 	{
-		"abr": "blightspreader'screscent",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "WoW_MeleeWeapon_BlightspreadersCrescent"
-	},
-	{
 		"abr": "blizzarisk",
 		"price": -10,
 		"category": "Animal",
@@ -9827,60 +7925,6 @@
 		"price": 2,
 		"category": "Alien raw fish",
 		"defname": "VCEF_BloodLeech"
-	},
-	{
-		"abr": "bloodpack(animal)",
-		"price": -10,
-		"category": "Blood packs",
-		"defname": "BloodPack_Animal"
-	},
-	{
-		"abr": "bloodpack(average)",
-		"price": -10,
-		"category": "Blood packs",
-		"defname": "BloodPack_AverageBlood"
-	},
-	{
-		"abr": "bloodpack(highblood)",
-		"price": -10,
-		"category": "Blood packs",
-		"defname": "BloodPack_HighBlood"
-	},
-	{
-		"abr": "bloodpack(lowblood)",
-		"price": -10,
-		"category": "Blood packs",
-		"defname": "BloodPack_LowBlood"
-	},
-	{
-		"abr": "bloodtemperedranseur",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "WoW_MeleeWeapon_BloodTemperedRanseur"
-	},
-	{
-		"abr": "bloodvial(average)",
-		"price": -10,
-		"category": "Blood packs",
-		"defname": "BloodVial_AverageBlood"
-	},
-	{
-		"abr": "bloodvial(highblood)",
-		"price": -10,
-		"category": "Blood packs",
-		"defname": "BloodVial_HighBlood"
-	},
-	{
-		"abr": "bloodvial(low)",
-		"price": -10,
-		"category": "Blood packs",
-		"defname": "BloodVial_LowBlood"
-	},
-	{
-		"abr": "bloodvial(special)",
-		"price": -10,
-		"category": "Blood packs",
-		"defname": "BloodVial_Special"
 	},
 	{
 		"abr": "blouse",
@@ -9953,48 +7997,6 @@
 		"price": -10,
 		"category": "Misc",
 		"defname": "KineticBombardmentSatellitePodSW"
-	},
-	{
-		"abr": "bone",
-		"price": 2,
-		"category": "Raw resources",
-		"defname": "BoneItem"
-	},
-	{
-		"abr": "bonearmor",
-		"price": -10,
-		"category": "Apparel",
-		"defname": "Sihv_Apparel_BoneArmor"
-	},
-	{
-		"abr": "boneash",
-		"price": 4,
-		"category": "Raw resources",
-		"defname": "BoneChina"
-	},
-	{
-		"abr": "bonechair",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "BoneChair"
-	},
-	{
-		"abr": "bonemarrow",
-		"price": -10,
-		"category": "Foods",
-		"defname": "ROMB_Marrow"
-	},
-	{
-		"abr": "bonewall",
-		"price": -10,
-		"category": "Misc",
-		"defname": "BoneWall"
-	},
-	{
-		"abr": "bonecrete",
-		"price": 3,
-		"category": "Raw resources",
-		"defname": "Bonecrete"
 	},
 	{
 		"abr": "bonfire",
@@ -10237,18 +8239,6 @@
 		"defname": "MeleeWeapon_Butcherknife"
 	},
 	{
-		"abr": "bxdroidcommando",
-		"price": -10,
-		"category": "Animal",
-		"defname": "BX_Droid_Commando"
-	},
-	{
-		"abr": "bxdroidcommandomeat",
-		"price": 3,
-		"category": "Raw meat",
-		"defname": "Meat_BX_Droid_Commando"
-	},
-	{
 		"abr": "byakheechitin",
 		"price": -10,
 		"category": "Leathers",
@@ -10277,12 +8267,6 @@
 		"price": 3,
 		"category": "Raw fruits",
 		"defname": "RC2_RawCactusFruit"
-	},
-	{
-		"abr": "calciumpolymer",
-		"price": 2,
-		"category": "Raw resources",
-		"defname": "BonePlastic"
 	},
 	{
 		"abr": "camel",
@@ -10789,18 +8773,6 @@
 		"defname": "AR_ClassicalSculpture"
 	},
 	{
-		"abr": "claymore",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "VFEM_MeleeWeapon_Claymore"
-	},
-	{
-		"abr": "claymoreoftheprophet",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "WoW_MeleeWeapon_ClaymoreoftheProphet"
-	},
-	{
 		"abr": "cleaver",
 		"price": -10,
 		"category": "Melee weapons",
@@ -10837,12 +8809,6 @@
 		"defname": "ROM_Gun_Flaregun"
 	},
 	{
-		"abr": "cobblestonewall",
-		"price": -10,
-		"category": "Misc",
-		"defname": "VFEM_CobblestoneWall"
-	},
-	{
 		"abr": "cobraflesh",
 		"price": 3,
 		"category": "Raw meat",
@@ -10867,12 +8833,6 @@
 		"defname": "RC2_RawCoconut"
 	},
 	{
-		"abr": "cocoon",
-		"price": -10,
-		"category": "Cocoons",
-		"defname": "ROMA_Cocoon"
-	},
-	{
 		"abr": "cod",
 		"price": 7,
 		"category": "Raw fish",
@@ -10889,18 +8849,6 @@
 		"price": 2,
 		"category": "Plant matter",
 		"defname": "RC2_RawCoffeeBeans"
-	},
-	{
-		"abr": "coffin",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "ROMV_SimpleCoffin"
-	},
-	{
-		"abr": "coldragedagger",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "WoW_MeleeWeapon_ColdrageDagger"
 	},
 	{
 		"abr": "colossalaerofleet",
@@ -11563,12 +9511,6 @@
 		"defname": "Gun_CZ3A1_rt"
 	},
 	{
-		"abr": "darkrangerbow",
-		"price": -10,
-		"category": "Ranged weapons",
-		"defname": "WoW_RangedWeapon_DarkRangerBow"
-	},
-	{
 		"abr": "darksterilewall",
 		"price": -10,
 		"category": "Misc",
@@ -11599,46 +9541,10 @@
 		"defname": "Gun_Dartrifle"
 	},
 	{
-		"abr": "dc-15ablasterrifle",
-		"price": -10,
-		"category": "Ranged weapons",
-		"defname": "DC-15A_Blaster_Rifle"
-	},
-	{
-		"abr": "dc-15sblastercarbine",
-		"price": -10,
-		"category": "Ranged weapons",
-		"defname": "DC-15S_Blaster_Carbine"
-	},
-	{
-		"abr": "dc-17blasterpistol",
-		"price": -10,
-		"category": "Ranged weapons",
-		"defname": "DC-17_Blaster_Pistol"
-	},
-	{
-		"abr": "dc-17mrepeatingblasterrifle",
-		"price": -10,
-		"category": "Ranged weapons",
-		"defname": "DC-17M_Repeating_Blaster_Rifle"
-	},
-	{
 		"abr": "deadeyerifle",
 		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "RF_Gun_ARFifty"
-	},
-	{
-		"abr": "deathguardgreatsword",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "WoW_MeleeWeapon_DeathguardGreatsword"
-	},
-	{
-		"abr": "deathguard'sblade",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "WoW_MeleeWeapon_DeathguardsBlade"
 	},
 	{
 		"abr": "decaydrake",
@@ -11675,12 +9581,6 @@
 		"price": -10,
 		"category": "Leathers",
 		"defname": "CH_Leather_DeepOne"
-	},
-	{
-		"abr": "deerskullmask",
-		"price": -10,
-		"category": "Headgear",
-		"defname": "ROMB_Apparel_DeerSkullMask"
 	},
 	{
 		"abr": "depleteduraniumrifle",
@@ -11833,22 +9733,10 @@
 		"defname": "AR_DoubleKlinai"
 	},
 	{
-		"abr": "doubleroyalcoffin",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "ROMV_RoyalCoffinDouble"
-	},
-	{
 		"abr": "dp-12",
 		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_DP12_rt"
-	},
-	{
-		"abr": "draenicribsmasher",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "WoW_MeleeWeapon_DraenicRibsmasher"
 	},
 	{
 		"abr": "dragon(fire-drake)meat",
@@ -11897,24 +9785,6 @@
 		"price": -10,
 		"category": "Processed meat",
 		"defname": "RC2_DriedMeat"
-	},
-	{
-		"abr": "droidekas",
-		"price": -10,
-		"category": "Animal",
-		"defname": "Droidekas"
-	},
-	{
-		"abr": "droidekasblaster",
-		"price": -10,
-		"category": "Ranged weapons",
-		"defname": "Droidekas_Blaster"
-	},
-	{
-		"abr": "droidekasmeat",
-		"price": 3,
-		"category": "Raw meat",
-		"defname": "Meat_Droidekas"
 	},
 	{
 		"abr": "dropsuit",
@@ -12199,18 +10069,6 @@
 		"defname": "DynChair"
 	},
 	{
-		"abr": "e-5blasterrifle",
-		"price": -10,
-		"category": "Ranged weapons",
-		"defname": "E-5_Blaster_Rifle"
-	},
-	{
-		"abr": "e-5ssniper_rifle",
-		"price": -10,
-		"category": "Ranged weapons",
-		"defname": "E-5S_Sniper_Rifle"
-	},
-	{
 		"abr": "earthbread",
 		"price": 2,
 		"category": "Raw vegetarian",
@@ -12329,12 +10187,6 @@
 		"price": -10,
 		"category": "Misc",
 		"defname": "Electrolyzer"
-	},
-	{
-		"abr": "electrostaff",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "Electrostaff"
 	},
 	{
 		"abr": "elf",
@@ -13405,12 +11257,6 @@
 		"defname": "AR_FurCape"
 	},
 	{
-		"abr": "furiousgladiatorrecurve",
-		"price": -10,
-		"category": "Ranged weapons",
-		"defname": "WoW_RangedWeapon_FuriousGladiatorRecurve"
-	},
-	{
 		"abr": "galadhrim-elfarmor",
 		"price": -10,
 		"category": "Apparel",
@@ -13543,12 +11389,6 @@
 		"defname": "GD_SKGrenadeLauncher"
 	},
 	{
-		"abr": "gelatin",
-		"price": 13,
-		"category": "Raw animal products",
-		"defname": "ROMB_Gelatin"
-	},
-	{
 		"abr": "generalatomicsreactor",
 		"price": -10,
 		"category": "Power",
@@ -13601,30 +11441,6 @@
 		"price": 3,
 		"category": "Alien raw fish",
 		"defname": "VCEF_GiantPolarPrawn"
-	},
-	{
-		"abr": "giantspider",
-		"price": -10,
-		"category": "Animal",
-		"defname": "ROMA_SpiderRaceGiant"
-	},
-	{
-		"abr": "giantspiderchitin",
-		"price": -10,
-		"category": "Leathers",
-		"defname": "ROMA_Leather_SpiderGiant"
-	},
-	{
-		"abr": "giantspidereggsack",
-		"price": 2,
-		"category": "Eggs (fert.)",
-		"defname": "ROMA_SpiderEggGiant"
-	},
-	{
-		"abr": "giantspiderqueen",
-		"price": -10,
-		"category": "Animal",
-		"defname": "ROMA_SpiderRaceGiantQueen"
 	},
 	{
 		"abr": "gigantelope",
@@ -13855,34 +11671,10 @@
 		"defname": "Estate_Gramophone"
 	},
 	{
-		"abr": "grandmarshalclaymore",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "WoW_MeleeWeapon_GrandMarshalClaymore"
-	},
-	{
-		"abr": "grandmarshal'sbattlehammer",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "WoW_MeleeWeapon_GrandMarshalsBattleHammer"
-	},
-	{
-		"abr": "grapemust",
-		"price": -10,
-		"category": "Manufactured",
-		"defname": "VFEM_Must"
-	},
-	{
 		"abr": "grapes",
 		"price": 3,
 		"category": "Raw vegetarian",
 		"defname": "AR_RawGrapes"
-	},
-	{
-		"abr": "grapes",
-		"price": 2,
-		"category": "Raw vegetarian",
-		"defname": "VFEM_RawGrapes"
 	},
 	{
 		"abr": "grave",
@@ -13931,18 +11723,6 @@
 		"price": 3,
 		"category": "Raw meat",
 		"defname": "Meat_AA_GreatDevourer"
-	},
-	{
-		"abr": "greatswordofthesindorei",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "WoW_MeleeWeapon_GreatSwordoftheSindorei"
-	},
-	{
-		"abr": "greatswordoffrozenhells",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "WoW_MeleeWeapon_GreatswordofFrozenHells"
 	},
 	{
 		"abr": "greencoloredwall",
@@ -14089,12 +11869,6 @@
 		"defname": "VWE_MeleeWeapon_Hammer"
 	},
 	{
-		"abr": "hammerofthenaaru",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "WoW_MeleeWeapon_HammeroftheNaaru"
-	},
-	{
 		"abr": "handcannon",
 		"price": -10,
 		"category": "Ranged weapons",
@@ -14173,12 +11947,6 @@
 		"defname": "AD_Arbiter"
 	},
 	{
-		"abr": "heatershield",
-		"price": -10,
-		"category": "Shields",
-		"defname": "VFEM_Shield_Heater"
-	},
-	{
 		"abr": "heavyamr",
 		"price": -10,
 		"category": "Ranged weapons",
@@ -14195,18 +11963,6 @@
 		"price": -10,
 		"category": "Headgear",
 		"defname": "VAE_Headgear_HeavyMarineHelmet"
-	},
-	{
-		"abr": "heavyplatearmor",
-		"price": -10,
-		"category": "Apparel",
-		"defname": "VFEM_Apparel_PlateArmorHeavy"
-	},
-	{
-		"abr": "heavyplatehelmet",
-		"price": -10,
-		"category": "Headgear",
-		"defname": "VFEM_Apparel_PlateHelmetHeavy"
 	},
 	{
 		"abr": "heavypowerconduit",
@@ -14521,42 +12277,6 @@
 		"defname": "LotRD_RawHoneyroot"
 	},
 	{
-		"abr": "honorboundbonebreaker",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "WoW_MeleeWeapon_HonorboundBoneBreaker"
-	},
-	{
-		"abr": "honorbounddecapitator",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "WoW_MeleeWeapon_HonorboundDecapitator"
-	},
-	{
-		"abr": "honorboundgladius",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "WoW_MeleeWeapon_HonorboundGladius"
-	},
-	{
-		"abr": "honorboundpigsticker",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "WoW_MeleeWeapon_HonorboundPigsticker"
-	},
-	{
-		"abr": "honorboundwarcleaver",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "WoW_MeleeWeapon_HonorboundWarCleaver"
-	},
-	{
-		"abr": "honorboundwarcleaver",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "WoW_MeleeWeapon_Mooncleaver"
-	},
-	{
 		"abr": "hood",
 		"price": -10,
 		"category": "Headgear",
@@ -14675,18 +12395,6 @@
 		"price": -10,
 		"category": "Drinks",
 		"defname": "RC2_IcedTea"
-	},
-	{
-		"abr": "ig-100magnaguard",
-		"price": -10,
-		"category": "Animal",
-		"defname": "IG-100_Magnaguard"
-	},
-	{
-		"abr": "ig-100magnaguardmeat",
-		"price": 3,
-		"category": "Raw meat",
-		"defname": "Meat_IG-100_Magnaguard"
 	},
 	{
 		"abr": "illuminateddresser",
@@ -14855,12 +12563,6 @@
 		"price": -10,
 		"category": "Leathers",
 		"defname": "Leather_IronChitin"
-	},
-	{
-		"abr": "ironfeatherlongbow",
-		"price": -10,
-		"category": "Ranged weapons",
-		"defname": "WoW_RangedWeapon_IronfeatherLongbow"
 	},
 	{
 		"abr": "ironhuskbeetle",
@@ -15067,12 +12769,6 @@
 		"defname": "Apparel_KiteShield"
 	},
 	{
-		"abr": "kiteshield",
-		"price": -10,
-		"category": "Shields",
-		"defname": "VFEM_Shield_Kite"
-	},
-	{
 		"abr": "kline",
 		"price": -10,
 		"category": "Furniture",
@@ -15223,12 +12919,6 @@
 		"defname": "LargeBackpackMC"
 	},
 	{
-		"abr": "largecocoon",
-		"price": -10,
-		"category": "Cocoons",
-		"defname": "ROMA_CocoonGiant"
-	},
-	{
 		"abr": "largeintakefan",
 		"price": -10,
 		"category": "Misc",
@@ -15347,12 +13037,6 @@
 		"price": -10,
 		"category": "Apparel",
 		"defname": "VAE_Apparel_LightPlateArmor"
-	},
-	{
-		"abr": "lightplatehelmet",
-		"price": -10,
-		"category": "Headgear",
-		"defname": "VFEM_Apparel_PlateHelmetLight"
 	},
 	{
 		"abr": "lightsmg",
@@ -15785,12 +13469,6 @@
 		"price": 3,
 		"category": "Raw meat",
 		"defname": "Meat_AA_MeadowAve"
-	},
-	{
-		"abr": "meatcleaver",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "WoW_MeleeWeapon_MeatCleaver"
 	},
 	{
 		"abr": "meatdryingrack",
@@ -17347,18 +15025,6 @@
 		"defname": "Gun_PKM_rt"
 	},
 	{
-		"abr": "plaguebringer'sdirk",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "WoW_MeleeWeapon_PlaguebringersDirk"
-	},
-	{
-		"abr": "plaguebringer'shalberd",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "WoW_MeleeWeapon_PlagueBringersHalberd"
-	},
-	{
 		"abr": "plaidshirt",
 		"price": -10,
 		"category": "Apparel",
@@ -18343,12 +16009,6 @@
 		"defname": "Jecrell_ChandelierRoyal"
 	},
 	{
-		"abr": "royalcoffin",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "ROMV_RoyalCoffin"
-	},
-	{
 		"abr": "rpglauncher",
 		"price": -10,
 		"category": "Ranged weapons",
@@ -18571,12 +16231,6 @@
 		"defname": "Apparel_Scutum"
 	},
 	{
-		"abr": "se-14lightblasterpistol",
-		"price": -10,
-		"category": "Ranged weapons",
-		"defname": "SE-14_Light_Blaster_Pistol"
-	},
-	{
 		"abr": "seal",
 		"price": -10,
 		"category": "Animal",
@@ -18623,30 +16277,6 @@
 		"price": -10,
 		"category": "Leathers",
 		"defname": "Leather_Cactus"
-	},
-	{
-		"abr": "sentinel'shalberd",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "WoW_MeleeWeapon_SentinelsHalberd"
-	},
-	{
-		"abr": "sentinel'smoonglaive",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "WoW_MeleeWeapon_SentinelsMoonglaive"
-	},
-	{
-		"abr": "sentinel'srecurvebow",
-		"price": -10,
-		"category": "Ranged weapons",
-		"defname": "WoW_RangedWeapon_SentinelsRecurveBow"
-	},
-	{
-		"abr": "sentinel'stomahawk",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "WoW_MeleeWeapon_SentinelsTomahawk"
 	},
 	{
 		"abr": "sentrygun",
@@ -18913,12 +16543,6 @@
 		"defname": "ZARS_Nugget_Silver"
 	},
 	{
-		"abr": "silvermoonwarmace",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "WoW_MeleeWeapon_SilvermoonWarMace"
-	},
-	{
 		"abr": "simpleenargomeal",
 		"price": -10,
 		"category": "Meals",
@@ -18929,18 +16553,6 @@
 		"price": -10,
 		"category": "Furniture",
 		"defname": "SimuWallSunLamp"
-	},
-	{
-		"abr": "sin'doreiglaive",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "WoW_MeleeWeapon_BEGlaive"
-	},
-	{
-		"abr": "sin'doreiwarblade",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "WoW_MeleeWeapon_SindoreiWarblade"
 	},
 	{
 		"abr": "singlerefrigerator",
@@ -18985,28 +16597,10 @@
 		"defname": "Gun_Skorpionvz61_rt"
 	},
 	{
-		"abr": "skullmask",
-		"price": -10,
-		"category": "Headgear",
-		"defname": "ROMB_Apparel_SkullMask"
-	},
-	{
-		"abr": "skullthrone",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "BoneThrone"
-	},
-	{
 		"abr": "skysteel",
 		"price": 8,
 		"category": "Raw resources",
 		"defname": "AA_SkySteel"
-	},
-	{
-		"abr": "skyfirehawkbow",
-		"price": -10,
-		"category": "Ranged weapons",
-		"defname": "WoW_RangedWeapon_SkyfireHawkBow"
 	},
 	{
 		"abr": "slacks",
@@ -19375,12 +16969,6 @@
 		"defname": "GNSpecializedOverheadProcessor"
 	},
 	{
-		"abr": "spectralbatmeat",
-		"price": 3,
-		"category": "Raw meat",
-		"defname": "Meat_ROMV_BatSpectralRace"
-	},
-	{
 		"abr": "spectralbow",
 		"price": -10,
 		"category": "Ranged weapons",
@@ -19409,24 +16997,6 @@
 		"price": 3,
 		"category": "Raw meat",
 		"defname": "Meat_AEXP_CatSphynx"
-	},
-	{
-		"abr": "spider",
-		"price": -10,
-		"category": "Animal",
-		"defname": "ROMA_SpiderRace"
-	},
-	{
-		"abr": "spidereggsack",
-		"price": 1,
-		"category": "Eggs (fert.)",
-		"defname": "ROMA_SpiderEgg"
-	},
-	{
-		"abr": "spidersilk",
-		"price": -10,
-		"category": "Textiles",
-		"defname": "ROM_SpiderSilk"
 	},
 	{
 		"abr": "spiderfish",
@@ -19547,12 +17117,6 @@
 		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "RF_Gun_CXfour"
-	},
-	{
-		"abr": "stormwindvanguardpolearm",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "WoW_MeleeWeapon_StormwindVanguardPolearm"
 	},
 	{
 		"abr": "stout",
@@ -19789,12 +17353,6 @@
 		"defname": "DRKApparelArmyT51bPowerArmor"
 	},
 	{
-		"abr": "tabard",
-		"price": -10,
-		"category": "Apparel",
-		"defname": "VFEM_Apparel_Tabard"
-	},
-	{
 		"abr": "table(pentagonal)",
 		"price": -10,
 		"category": "Furniture",
@@ -19841,12 +17399,6 @@
 		"price": -10,
 		"category": "Manufactured",
 		"defname": "Jecrell_Wax"
-	},
-	{
-		"abr": "talonguardglaive",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "WoW_MeleeWeapon_TalonGuardGlaive"
 	},
 	{
 		"abr": "tango",
@@ -19979,12 +17531,6 @@
 		"price": 3,
 		"category": "Raw meat",
 		"defname": "Meat_AA_TetraSlug"
-	},
-	{
-		"abr": "thalassianbow",
-		"price": -10,
-		"category": "Ranged weapons",
-		"defname": "WoW_RangedWeapon_ThalassianBow"
 	},
 	{
 		"abr": "thekinginyellow",
@@ -20221,28 +17767,10 @@
 		"defname": "VCEF_RawTrout"
 	},
 	{
-		"abr": "truesilverchampion",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "WoW_MeleeWeapon_TruesilverChampion"
-	},
-	{
 		"abr": "truffles",
 		"price": 3,
 		"category": "Raw vegetables",
 		"defname": "RC2_RawTruffles"
-	},
-	{
-		"abr": "t-seriestacticaldroid",
-		"price": -10,
-		"category": "Animal",
-		"defname": "T-Series_Tactical_Droid"
-	},
-	{
-		"abr": "t-seriestacticaldroidmeat",
-		"price": 3,
-		"category": "Raw meat",
-		"defname": "Meat_T-Series_Tactical_Droid"
 	},
 	{
 		"abr": "tuna",
@@ -20701,12 +18229,6 @@
 		"defname": "YP_BingJu"
 	},
 	{
-		"abr": "vibrosword",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "Vibrosword"
-	},
-	{
 		"abr": "viko",
 		"price": -10,
 		"category": "Drugs",
@@ -20729,12 +18251,6 @@
 		"price": -10,
 		"category": "Production",
 		"defname": "RC2_VodkaFermentingBarrel"
-	},
-	{
-		"abr": "voidsabre",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "WoW_MeleeWeapon_VoidSabre"
 	},
 	{
 		"abr": "vssvintorez",
@@ -20875,18 +18391,6 @@
 		"defname": "AEXP_WalrusTusk"
 	},
 	{
-		"abr": "warmongeringgladiatorgavel",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "WoW_MeleeWeapon_WarmongeringGladiatorGavel"
-	},
-	{
-		"abr": "warmongeringgladiatorlongbow",
-		"price": -10,
-		"category": "Ranged weapons",
-		"defname": "WoW_RangedWeapon_WarmongeringGladiatorLongbow"
-	},
-	{
 		"abr": "watermillgenerator",
 		"price": -10,
 		"category": "Misc",
@@ -20939,12 +18443,6 @@
 		"price": 3,
 		"category": "Raw meat",
 		"defname": "Meat_AEXP_WelshTerrier"
-	},
-	{
-		"abr": "westar-m5_blaster_rifle",
-		"price": -10,
-		"category": "Ranged weapons",
-		"defname": "Westar-M5_Blaster_Rifle"
 	},
 	{
 		"abr": "wheatgrains",
@@ -21059,18 +18557,6 @@
 		"price": -10,
 		"category": "Drugs",
 		"defname": "AR_Wine"
-	},
-	{
-		"abr": "wine",
-		"price": -10,
-		"category": "Drugs",
-		"defname": "VFEM_Wine"
-	},
-	{
-		"abr": "winebarrel",
-		"price": -10,
-		"category": "Production",
-		"defname": "VFEM_WineBarrel"
 	},
 	{
 		"abr": "witcher'ssilversword",
@@ -21191,12 +18677,6 @@
 		"price": -10,
 		"category": "YP weapons",
 		"defname": "YP_VectorShot"
-	},
-	{
-		"abr": "z6rotaryblastercannon",
-		"price": -10,
-		"category": "Ranged weapons",
-		"defname": "Z6_Rotary_Blaster_Cannon"
 	},
 	{
 		"abr": "zebra",
@@ -22643,7 +20123,31 @@
 		"price": 98,
 		"category": "Headgear",
 		"defname": "WovenHat"
+	},
+	{
+		"abr": "grapemust",
+		"price": 4,
+		"category": "Alcohol precursors",
+		"defname": "RC2_GrapeMust"
+	},
+	{
+		"abr": "grapes",
+		"price": 3,
+		"category": "Raw fruits",
+		"defname": "RC2_RawGrapes"
+	},
+	{
+		"abr": "wine",
+		"price": 42,
+		"category": "Alcohol",
+		"defname": "RC2_Wine"
+	},
+	{
+		"abr": "winefermentingbarrel",
+		"price": 95,
+		"category": "Production",
+		"defname": "RC2_WineFermentingBarrel"
 	}
 	],
-	"total": 4338
+	"total": 4342
 }
